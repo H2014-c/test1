@@ -1,0 +1,31 @@
+h1{
+    border: 1px solid;
+    border-radius: 15px;
+    text-align: center;
+    color: greenyellow;
+    background-color: black; 
+}
+
+.container{ 
+    display: flex;  
+    flex-direction: row;    
+    background-color: white;
+    height: 100px;
+    height: auto;
+    justify-content: center;
+}
+p{
+    color: rgb(146, 0, 0);
+    text-align: center;
+
+}
+    
+img{ 
+    border: 5px rgb(255, 0, 0) solid;
+    margin: 10px;
+    
+}
+    
+
+
+
